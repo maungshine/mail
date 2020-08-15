@@ -1,0 +1,14 @@
+textarea {
+    min-height: 400px;
+}
+
+.link:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.timestamp {
+    font-size: .8em;
+}
+
+
